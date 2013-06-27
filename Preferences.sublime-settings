@@ -1,0 +1,11 @@
+{
+	"default_line_ending": "unix",
+	"draw_white_space": "all",
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_to_bracket": false,
+	"translate_tabs_to_spaces": true
+}
