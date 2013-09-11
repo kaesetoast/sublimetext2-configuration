@@ -3,6 +3,7 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"BracketHighlighter",
 		"Console API Snippets (JavaScript)",
 		"DocBlockr",
 		"HTML-CSS-JS Prettify",
