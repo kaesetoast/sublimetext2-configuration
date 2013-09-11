@@ -3,12 +3,13 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"Console API Snippets (JavaScript)",
 		"DocBlockr",
 		"HTML-CSS-JS Prettify",
 		"Nettuts+ Fetch",
 		"Package Control",
-		"Prefixr",
 		"PHP-Twig",
+		"Prefixr",
 		"Sass",
 		"SideBarEnhancements",
 		"SublimeLinter",
