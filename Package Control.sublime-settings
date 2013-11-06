@@ -3,11 +3,21 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"Blade Snippets",
 		"BracketHighlighter",
+		"CoffeeScript",
 		"Console API Snippets (JavaScript)",
 		"DocBlockr",
+		"eco",
+		"Emmet",
 		"HTML-CSS-JS Prettify",
 		"Inc-Dec-Value",
+		"Jade",
+		"Laravel 4 Artisan",
+		"Laravel 4 Snippets",
+		"Laravel Blade Highlighter",
+		"Laravel Generator",
+		"Laravel Snippets",
 		"Nettuts+ Fetch",
 		"Package Control",
 		"PHP-Twig",
@@ -15,6 +25,7 @@
 		"Sass",
 		"SideBarEnhancements",
 		"SublimeLinter",
-		"Wordpress"
+		"tern_for_sublime",
+		"Theme - Soda"
 	]
 }
